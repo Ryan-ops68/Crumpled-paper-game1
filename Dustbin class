@@ -1,0 +1,14 @@
+Dustbin class 
+
+
+var ground = 0;
+var dustbin = 0;
+var paper = 0;
+
+Setradius.paper = 70;
+
+
+groundObject.display();
+dustbinObj.display();
+paperObject.display();
+
